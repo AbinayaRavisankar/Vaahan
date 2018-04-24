@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.vaahan.vaahan.PassengerLoginFragment">
+
+    <EditText
+        android:id="@+id/passenger_mobile"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edit_text_style"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:hint="Mobile no."
+        android:textColorHint="#aaa"
+        android:drawableEnd="@drawable/ic_action_mobile"
+        android:textColor="@color/colorPrimaryDark"/>
+
+    <Button
+        android:id="@+id/passenger_login"
+        android:background="@drawable/button_style"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:text="Login"/>
+
+</RelativeLayout>

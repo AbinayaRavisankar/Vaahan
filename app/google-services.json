@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "511534533289",
+    "firebase_url": "https://vaahan-master-2.firebaseio.com",
+    "project_id": "vaahan-master-2",
+    "storage_bucket": "vaahan-master-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511534533289:android:45f8bb79bccf2a39",
+        "android_client_info": {
+          "package_name": "com.example.vaahan.vaahan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511534533289-brc6s6gu92ocepufm3glhvvlui07oph2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vaahan.vaahan",
+            "certificate_hash": "c95d9920510337692da79a2b740ca6f51bf631fa"
+          }
+        },
+        {
+          "client_id": "511534533289-b6umvmgnjo5l124pjd7ojndselg9q20s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu9QtQ1PQ17ycV2u0bPnes4L86UPXzII8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511534533289-b6umvmgnjo5l124pjd7ojndselg9q20s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
