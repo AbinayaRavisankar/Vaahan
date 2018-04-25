@@ -24,7 +24,7 @@ public class  PassengerLoginFragment extends Fragment {
         passengerLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String passengerPhone = ((EditText)rootView.findViewById(R.id.driver_mobile)).getText().toString();
+                String passengerPhone = ((EditText)rootView.findViewById(R.id.passenger_mobile)).getText().toString();
 
                 Intent i = new Intent(getActivity(), PassengerMapsActivity.class);
                 i.putExtra("PASSENGER_PHONE",passengerPhone);
