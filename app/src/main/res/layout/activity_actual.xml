@@ -29,7 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
-            android:text="100km"
+            android:text="10km"
             android:textSize="50sp"/>
 
         <TextView
@@ -37,7 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
-            android:text="Rs.30"
+            android:text="Rs.185"
             android:textSize="50sp"/>
 
     </LinearLayout>
